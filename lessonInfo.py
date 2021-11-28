@@ -25,7 +25,7 @@ def translateToKey(string):
         "ㄕ": Qt.Key_G,
         "ㄘ": Qt.Key_H,
         "ㄔ": Qt.Key_T,
-        "ㄎ": Qt.Key_Y,
+        "ㄗ": Qt.Key_Y,
         "ㄐ": Qt.Key_R,
         "ㄧ": Qt.Key_U,
         "ㄍ": Qt.Key_E,
@@ -139,7 +139,7 @@ fourD = "Review the ㄑ(f), ㄨ(j), ㄎ(d), ㄜ(k), ㄋ(s), ㄠ(l), ㄇ(a), ㄤ(
 fiveD = "ㄔ is typed with the left pointer finger. It is located on the t key.\nㄎ is typed with the right pointer finger. It is located on the y key.\nㄐ is typed with the left pointer finger. It is located on the r key.\nㄧ is typed with the right pointer finger. It is located on the u key."
 sixD = "ㄍ is typed with the left middle finger. It is located on the e key.\nㄛ is typed with the right middle finger. It is located on the i key.\nㄊ is typed with the left ring finger. It is located on the w key.\nㄟ is typed with the right ring finger. It is located on the o key."
 sevenD = "ㄆ is typed with the left pinky finger. It is located on the q key.\nㄣ is typed with the right pinky finger. It is located on the p key."
-eightD = "Review the ㄔ(t), ㄎ(y), ㄐ(r), ㄧ(u), ㄍ(e), ㄛ(i), ㄊ(w), ㄟ(o), ㄆ(q), ㄣ(p) keys."
+eightD = "Review the ㄔ(t), ㄗ(y), ㄐ(r), ㄧ(u), ㄍ(e), ㄛ(i), ㄊ(w), ㄟ(o), ㄆ(q), ㄣ(p) keys."
 nineD = "ㄖ is typed with the left pointer finger. It is located on the b key.\nㄙ is typed with the right pointer finger. It is located on the n key.\nㄒ is typed with the left pointer finger. It is located on the v key.\nㄩ is typed with the right pointer finger. It is located on the m key."
 tenD = "ㄏ is typed with the left middle finger. It is located on the c key.\nㄝ is typed with the right middle finger. It is located on the , key.\nㄌ is typed with the left ring finger. It is located on the x key.\nㄡ is typed with the right ring finger. It is located on the . key."
 elevenD = "ㄈ is typed with the left pinky finger. It is located on the z key.\nㄥ is typed with the right pinky finger. It is located on the / key."
