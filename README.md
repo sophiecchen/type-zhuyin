@@ -1,5 +1,7 @@
 # Type-Zhuyin
 
+By Sophie Chen
+
 This program helps Chinese learners memorize the positions of Zhuyin (Bopomofo) characters on a keyboard (standard layout). 
 
 Zhuyin is a phonetic system used in Taiwan as a reading aid and a typing system. It is highly recommended that users are already familiar with the Zhuyin alphabet and basic Chinese before using this program.
